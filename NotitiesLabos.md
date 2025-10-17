@@ -58,6 +58,7 @@ Enkel output verandert, de file zelf verandert niet
 |`sed 's/<zoek>/<vervang>/g'` |stream editor, zoek 'zoek' en vervang het door 'vervang', /g wil zeggen over heel de tekst|
 |`sed '//d'`|verwijder |
 |`awk '{<commando>}' <bestand>`| progammeertaal, bepaald commando invoeren in bestand|
+|`grep -v '^$'` | filtert lege regels
 
 ## Script
 ### Inleiding
@@ -87,7 +88,7 @@ Dubbele aanhalingstekens gebruiken. Zeker als je een variabele gebruikt. Anders 
 De scope van een variabele is binnen de shell. Een script schrijven is een subshell. Variabelen gedeclareerd buiten het script zijn dus niet zichtbaar.
 Maar dit is te omzeilen door een omgevingsvariabele te maken. -> commando `export` gebruiken. Een variabele in een script bestaat niet meer na het uitvoeren van dat script. 
 
-Binnen script kleine letters gebruiken. Omgevingsvariabelen met grote letters.
+Binnen script kleine letters gebruiken. Omgevingsvariabelen met grote letters. 
 
 ## Labo 2
 
@@ -100,6 +101,55 @@ Binnen script kleine letters gebruiken. Omgevingsvariabelen met grote letters.
 5)  `wc -l packages.txt`
 6)  `cat packages.txt | awk '{print $3}' | sort | uniq -c`
 7)  `grep python packages.txt | wc -l`
-8)  
+8)  `apt list --all-versions 'python*'`
+9)  `apt list --all-versions 'python*' 2> /dev/null | tail -n +2 | grep -v '^$' > python-packages.txt`
+10) `wc -l python-packages.txt` / `grep installed python-packages.txt | wc -l`
+11) `cat python-packages.txt | awk '{print $1}' | uniq | wc -l`
+
+### 2.2 Variabelen
+
+1) /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+2) 1000
+3) 1001
+4) /home/hogent
+5) LinuxGUI
+6) en_US.UTF-8
+7) hogent
+8) linux-gnu
+9) /home/hogent/labo -> huidige locatie
+
+### 2.3 Variabelen in scripts
+
+1)  
+
+## Permisies
+
+Eerste letter binnen `ls -l` is bestandstype:
+- d: directory
+- c: character, kan per byte naar geschreven worden
+- b: block, kan per blok bytes naar geschreven worden
+- l: links.
+
+3e kolom is eigenaar, 4e kolom is groep eigenaars
+
+Eerste 3 rwx slaan op eigenaar.
+Volgende 3 op gebruikers binnen groep eigenaar.
+Laatste 3 op rest.
+
+- Symbolische combinaties: `chmod <wie><+,-,=><wat> <waar>` om permisies aan te passen.
+- octale notatie: 
+
+Execute rechten wegnemen van dir wil zeggen dat je er niet meer met `cd` aan kan.
+
+Leesrechten wegnemen betekent dat geen `ls` meer kan
+Schrijfrechten wegnemen betekent dat je geen files meer kan maken in die dir. 
+
+Root gebruiker negeert permisies
+
+Standaard bij aanmaken van dir is permisiecode 777, daar wordt de `umask` van afgetrokken. Enkel 0, 2 en 7 zijn nuttig in `umask`. Bij andere cijfers is het resultaat zinloze permisies.
+
+3 speciale permisies
+- SETUID: maakt het mogelijk dat een gewone gebruiker zijn ww kan aanpassen ook al heeft hij geen schrijfrechten in de dir shadow waar ww opgeslaan zijn.
+- SETGID: set group id
 
 
