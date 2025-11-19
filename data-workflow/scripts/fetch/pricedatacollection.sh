@@ -4,14 +4,14 @@
 #------------------------------
 
 DATADIRELIA="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/price"
-LOGFILEELIA="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/fetch/elia.log"
+LOGFILEELIA="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/fetch/price.log"
 LIMIT=60
 
 start=$(date -u -d '1 hour ago' +%Y-%m-%dT%H:%M:%S)
 end=$(date -u +%Y-%m-%dT%H:%M:%S)
 timestamp=$(date -u +%Y%m%d-%H%M%S)
 
-outfile="$DATADIRELIA/eliadata-${timestamp}.json"
+outfile="$DATADIRELIA/pricedata-${timestamp}.json"
 
 #----------API-call----------
 #----------------------------

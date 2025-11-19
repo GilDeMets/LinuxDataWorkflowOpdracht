@@ -1,9 +1,22 @@
+#! /usr/bin/env python3
 import os
 from pathlib import Path
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 import time
 import sys, traceback
+
+LOG_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/logs/fetch")
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+LOG_FILE = LOG_DIR / "solar.log"
+
+sys.stdout = sys.stderr = open(LOG_FILE, "a")
+
+def excepthook(t, v, tb):
+        with open(LOG_FILE, "a") as f:
+                f.write("".join(traceback.format_exception(t, v, tb)))
+
+sys.excepthook = excepthook
 
 SMA_USER = "meidoornstraat4@gmail.com"
 SMA_PASS = os.environ.get("SMA_PASS")
@@ -15,19 +28,6 @@ if not SMA_PASS:
 
 DOWNLOAD_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar")
 DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
-
-LOG_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/logs/fetch")
-LOG_DIR.mkdir(parents=True, exist_ok=True)
-
-LOG_FILE = LOG_DIR / "solar.log"
-
-sys.stdout = sys.sterr = open(LOG_FILE, "a")
-
-def excepthook(t, v, tb):
-	with open(LOG_FILE, "a") as f:
-		f.write("".join(traceback.format_exception(t, v, tb)))
-
-sys.excepthook = excepthook
 
 def main():
 	with sync_playwright() as p:

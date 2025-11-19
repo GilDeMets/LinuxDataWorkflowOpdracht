@@ -7,3 +7,8 @@ Traceback (most recent call last):
     ^^^^^^^^
 NameError: name 'download' is not defined
 [20251119-171955]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-171955.csv
+[20251119-201841]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-201841.csv
+[20251119-210203] SMA_PASS niet gezet in environment
+[20251119-210243]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-210243.csv
+[20251119-210356]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-210356.csv
+[20251119-210450]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-210450.csv
