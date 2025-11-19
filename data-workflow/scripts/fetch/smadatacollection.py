@@ -3,16 +3,31 @@ from pathlib import Path
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 import time
+import sys, traceback
 
-SMA_USER = os.environ.get("SMA_USER")
+SMA_USER = "meidoornstraat4@gmail.com"
 SMA_PASS = os.environ.get("SMA_PASS")
 PLANT_ID = "14399320"
 
-if not SMA_USER or not SMA_PASS:
-	raise SystemExit("SMA_USER en/of SMA_PASS niet gezet in environment")
+if not SMA_PASS:
+	ts = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+	raise SystemExit(f"[{ts}] SMA_PASS niet gezet in environment")
 
 DOWNLOAD_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar")
 DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
+
+LOG_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/logs/fetch")
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+
+LOG_FILE = LOG_DIR / "solar.log"
+
+sys.stdout = sys.sterr = open(LOG_FILE, "a")
+
+def excepthook(t, v, tb):
+	with open(LOG_FILE, "a") as f:
+		f.write("".join(traceback.format_exception(t, v, tb)))
+
+sys.excepthook = excepthook
 
 def main():
 	with sync_playwright() as p:
@@ -53,14 +68,15 @@ def main():
 			page.goto(target_url, wait_until="networkidle")
 
 		#cookies weigeren
-
+		ts = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+		
 		try:
     			reject_btn = page.locator("a:has-text('Reject all')")
     			if reject_btn.count() > 0 and reject_btn.first.is_visible():
         			reject_btn.first.click()
         			page.wait_for_timeout(1000)
 		except Exception as e:
-    			print(f"Cookiebanner niet gevonden of klik mislukt: {e}")
+    			print(f"[{ts}] Cookiebanner niet gevonden of klik mislukt: {e}")
 		
 		#expansion openklikken
 
@@ -85,7 +101,7 @@ def main():
 		out_path = DOWNLOAD_DIR / f"solardata-{ts}.csv"
 
 		download.save_as(out_path)
-		print(f"CSV opgeslagen als: {out_path}")
+		print(f"[{ts}]CSV opgeslagen als: {out_path}")
 
 		browser.close()
 

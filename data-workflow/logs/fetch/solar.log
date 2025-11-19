@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/smadatacollection.py", line 108, in <module>
+    main()
+    ~~~~^^
+  File "/home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/smadatacollection.py", line 102, in main
+    download.save_as(out_path)
+    ^^^^^^^^
+NameError: name 'download' is not defined
+[20251119-171955]CSV opgeslagen als: /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-171955.csv

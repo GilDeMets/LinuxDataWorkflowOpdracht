@@ -25,7 +25,7 @@ exec 2>> "$LOGFILEMETEO"
 	echo "Periode: $(date -u '+%Y-%m-%d') -> $(date -u -d '2 days' '+%Y-%m-%d')"
 } >> "$LOGFILEMETEO"
 
-if curl -s -X GET "$URLMETEO" -o "$outfile" ; then
+if curl -s --show-error -X GET "$URLMETEO" -o "$outfile" ; then
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Succes: data opgeslagen in $outfile" >> "$LOGFILEMETEO"
 else
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Fout: download mislukt" >> "$LOGFILEMETEO"
