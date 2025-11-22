@@ -27,6 +27,7 @@ exec 2>> "$LOGFILECLOUDS"
 
 if curl -s --show-error "$URLCLOUDS" -o "$outfile" ; then
         echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Succes: data opgeslagen in $outfile" >> "$LOGFILECLOUDS"
+	chmod 444 "$outfile"
 else
         echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Fout: download mislukt" >> "$LOGFILEMETEO"
         rm -f "$outfile"

@@ -30,6 +30,7 @@ exec 2>> "$LOGFILEELIA"
 
 if curl -s --show-error -X GET "$URL" -o "$outfile" ; then
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Succes: data opgeslagen in $outfile" >> "$LOGFILEELIA"
+	chmod 444 "$outfile"
 else
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Fout: download mislukt" >> "$LOGFILEELIA"
 	rm -f "$outfile"

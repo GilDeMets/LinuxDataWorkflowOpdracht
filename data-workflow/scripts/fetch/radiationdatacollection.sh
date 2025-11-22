@@ -27,6 +27,7 @@ exec 2>> "$LOGFILEMETEO"
 
 if curl -s --show-error -X GET "$URLMETEO" -o "$outfile" ; then
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Succes: data opgeslagen in $outfile" >> "$LOGFILEMETEO"
+	chmod 444 "$outfile"
 else
 	echo "[$(date -u '+%Y-%m-%d %H:%M:%S')] Fout: download mislukt" >> "$LOGFILEMETEO"
 	rm -f "$outfile"

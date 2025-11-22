@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 import time
 import sys, traceback
+import stat
 
 LOG_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/logs/fetch")
 LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -101,6 +102,7 @@ def main():
 		out_path = DOWNLOAD_DIR / f"solardata-{ts}.csv"
 
 		download.save_as(out_path)
+		os.chmod(out_path, stat.S_IRUSR | stat.S_IRGRP | stat.S_IROTH)
 		print(f"[{ts}]CSV opgeslagen als: {out_path}")
 
 		browser.close()
