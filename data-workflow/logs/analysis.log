@@ -1,0 +1,13 @@
+[2025-11-29 16:18:05] Loading dataset...
+[2025-11-29 16:18:05] Generating time series plots...
+[2025-11-29 16:18:05] Saved plot: clouds_timeseries.png
+[2025-11-29 16:18:05] Saved plot: radiation_timeseries.png
+[2025-11-29 16:18:05] Saved plot: solar_timeseries.png
+[2025-11-29 16:18:06] Saved plot: price_timeseries.png
+[2025-11-29 16:18:06] Generating scatter plots...
+[2025-11-29 16:18:06] Saved plot: scatter_radiation_solar.png
+[2025-11-29 16:18:06] Saved plot: scatter_clouds_solar.png
+[2025-11-29 16:18:06] Saved plot: scatter_price_solar.png
+[2025-11-29 16:18:06] Generating correlation matrix plot...
+[2025-11-29 16:18:06] Saved plot: correlation_matrix.png
+[2025-11-29 16:18:06] Analysis complete.

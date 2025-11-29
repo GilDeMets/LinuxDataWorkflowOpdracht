@@ -29,4 +29,9 @@
 
 > Opmerking: Ik kan dit enkel lokaal op mijn laptop draaien, ik heb deze elk mogelijk moment laten aanstaan met de VM open, maar er zijn natuurlijk gaten als ik naar school en terug naar huis verplaats.
 
+## install dependencies
+
+- `pip install pandas`
+- `pip install matplotlib`
+
 
