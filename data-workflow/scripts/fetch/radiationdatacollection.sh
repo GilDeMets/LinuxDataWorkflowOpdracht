@@ -3,7 +3,7 @@
 #----------Variabelen----------
 #------------------------------
 
-SCRIPT_DIR="$(cd "$(dirnamme "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT_DIR="$(realpath "$SCRIPT_DIR/../..")"
 
 DATADIRMETEO="$ROOT_DIR/raw/radiation"
