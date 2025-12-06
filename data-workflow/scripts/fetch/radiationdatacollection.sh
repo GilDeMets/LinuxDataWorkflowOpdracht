@@ -4,7 +4,7 @@
 #------------------------------
 
 SCRIPT_DIR="$(cd "$(dirnamme "$0")" && pwd)"
-ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/../..")"
 
 DATADIRMETEO="$ROOT_DIR/raw/radiation"
 LOGFILEMETEO="$ROOT_DIR/logs/fetch/radiation.log"
