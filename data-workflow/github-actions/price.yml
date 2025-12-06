@@ -1,0 +1,27 @@
+name: Fetch Price data
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run price collection
+        run: |
+          bash data-workflow/scripts/fetch/pricedatacollection.sh
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data-workflow/raw/price
+          git commit -m 'Update price data'
+          git push
+        shell: bash
+
