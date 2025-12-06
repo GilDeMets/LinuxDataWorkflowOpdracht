@@ -4,7 +4,7 @@
 #------------------------------
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/../..")"
 
 DATADIRELIA="$ROOT_DIR/raw/price"
 LOGFILEELIA="$ROOT_DIR/logs/fetch/price.log"
