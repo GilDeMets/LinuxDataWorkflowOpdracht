@@ -4,7 +4,7 @@
 #------------------------------
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/../..")"
 
 DATADIRCLOUDS="$ROOT_DIR/raw/clouds"
 LOGFILECLOUDS="$ROOT_DIR/logs/fetch/clouds.log"
