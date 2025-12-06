@@ -2,16 +2,15 @@ name: Daily Data Workflow
 
 on:
   schedule:
-    - cron: "58 22 * * *"   # 23:58 Belgische tijd = 22:58 UTC
+    - cron: "55 22 * * *"   # 23:58 Belgische tijd = 22:58 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  daily:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Install system dependencies
         run: |
@@ -23,6 +22,14 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install pandas matplotlib numpy
+
+      - name: Fetch radiation data
+        run: |
+          bash data-workflow/scripts/fetch/radiationdatacollection.sh
+
+      - name: Fetch solar data
+        run: |
+          python3 data-workflow/scripts/fetch/solardatacollection.py
 
       - name: Run data transform script
         run: |
@@ -37,17 +44,16 @@ jobs:
         run: |
           bash data-workflow/scripts/generate_report.sh
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: data-workflow/report/
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data-workflow/raw/radiation
+          git add data-workflow/raw/solar
+          git add data-workflow/processed
+          git add data-workflow/analysis-output
+          git add data-workflow/report
+          git commit -m 'Update radiation/solar + daily report update'
+          git push
 
-  deploy:
-    needs: build
-    permissions:
-      pages: write
-      id-token: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+
