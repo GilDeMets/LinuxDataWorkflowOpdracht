@@ -1,3 +1,14 @@
+---
+title: "Analyse report"
+author: "Gil De Mets"
+header-includes: 
+  - |
+      \usepackage{float}
+      \makeatletter
+      \def\fps@figure{H}
+      \makeatother
+---
+
 # Automatisch analyse rapport
 
 _Gegenereerd op: {{timestamp}}_
@@ -13,6 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et lacus eget e
 Volgende grafieken werden automatisch gegenereerd met de geproceste data.
 
 {{figures_total}}
+
 {{figures_today}}
 
 ### Tabel

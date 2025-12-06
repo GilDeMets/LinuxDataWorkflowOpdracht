@@ -6079,3 +6079,384 @@ Start genereren tabel
 Einde genereren tabel
 Start genereren md-file
 Einde genereren md-file
+[2025-12-06 15:03:37] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 15:29:40] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 15:35:43] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 15:46:33] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 16:03:40] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 16:04:57] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+[2025-12-06 16:10:48] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+[WARNING] Could not fetch resource ../analysis-output/total/clouds_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/correlation_matrix.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/price_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/radiation_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_clouds_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_price_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_radiation_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/solar_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/clouds_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_clouds_radiation.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_solar_price.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/overlay_multiaxis_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/price_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/radiation_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 16:10:49] Einde genereren report
+[2025-12-06 16:20:39] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+[WARNING] Could not fetch resource ../analysis-output/total/clouds_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/correlation_matrix.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/price_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/radiation_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_clouds_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_price_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_radiation_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/solar_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/clouds_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_clouds_radiation.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_solar_price.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/overlay_multiaxis_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/price_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/radiation_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 16:20:40] Einde genereren report
+Pandoc input file:
+-------------------------------------------
+---
+title: "Analyse report"
+author: "Gil De Mets"
+header-includes: 
+  - |
+      \usepackage{float}
+      \makeatletter
+      \def\fps@figure{H}
+      \makeatother
+---
+
+# Automatisch analyse rapport
+
+_Gegenereerd op: 2025-12-06 16:20:39_
+
+## Inleiding
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et lacus eget enim suscipit porttitor sed non felis. Donec auctor, massa tincidunt mattis ornare, sapien quam auctor mauris, sed iaculis tellus tellus nec diam. Nunc ut gravida sem. Sed feugiat enim commodo, pellentesque nisl eget, pulvinar metus. Morbi non elit ac sem imperdiet pellentesque. Etiam congue justo quis nibh varius, vitae ultrices nisi condimentum. Mauris pharetra, tortor sit amet dignissim scelerisque, ante ex consequat magna, a gravida felis justo a libero. Mauris ullamcorper vestibulum nibh, in egestas elit scelerisque a. Etiam tempus aliquam ipsum eget tempus.
+
+## Resultaten
+
+### Grafieken
+
+Volgende grafieken werden automatisch gegenereerd met de geproceste data.
+
+![clouds_timeseries.png](../analysis-output/total/clouds_timeseries.png)
+
+![correlation_matrix.png](../analysis-output/total/correlation_matrix.png)
+
+![price_timeseries.png](../analysis-output/total/price_timeseries.png)
+
+![radiation_timeseries.png](../analysis-output/total/radiation_timeseries.png)
+
+![scatter_clouds_solar.png](../analysis-output/total/scatter_clouds_solar.png)
+
+![scatter_price_solar.png](../analysis-output/total/scatter_price_solar.png)
+
+![scatter_radiation_solar.png](../analysis-output/total/scatter_radiation_solar.png)
+
+![solar_timeseries.png](../analysis-output/total/solar_timeseries.png)
+
+
+
+![clouds_today.png](../analysis-output/today/clouds_today.png)
+
+![dualaxis_clouds_radiation.png](../analysis-output/today/dualaxis_clouds_radiation.png)
+
+![dualaxis_solar_price.png](../analysis-output/today/dualaxis_solar_price.png)
+
+![overlay_multiaxis_today.png](../analysis-output/today/overlay_multiaxis_today.png)
+
+![price_today.png](../analysis-output/today/price_today.png)
+
+![radiation_today.png](../analysis-output/today/radiation_today.png)
+
+![solar_today.png](../analysis-output/today/solar_today.png)
+
+
+
+### Tabel
+
+In onderstaande tabel wordt de geproceste data die de laatste 24u verzameld werd weergegeven.
+
+|Timestamp|Clouds(okta)|Price|Radiation|Solar|
+|---|---|---|---|---|
+|2025-12-05T17:00|7|49.714285714285715|0.0|228|
+|2025-12-05T17:15|7|112.75786666666666|0.0|0|
+|2025-12-05T17:30|8|36|0.0|0|
+|2025-12-05T17:45|8|36|0.0|0|
+|2025-12-05T18:00|8|35.124857142857145|0.0|0|
+|2025-12-05T18:15|8|30.851599999999998|0.0|0|
+|2025-12-05T18:30|7|35.108|0.0|0|
+|2025-12-05T18:45|7|40.18828571428571|0.0|0|
+|2025-12-05T19:00|7|36|0.0|0|
+|2025-12-05T19:15|7|36|0.0|0|
+|2025-12-05T19:30|8|34.72833333333333|0.0|0|
+|2025-12-05T19:45|8|72.85714285714286|0.0|0|
+|2025-12-05T20:00|8|40.642857142857146|0.0|0|
+|2025-12-05T20:30|7|40.333333333333336|0.0|0|
+|2025-12-05T20:45|7|40.44350000000001|0.0|0|
+|2025-12-05T21:00|7|151.39435714285713|0.0|0|
+|2025-12-05T21:15|7|104.2719333333333|0.0|0|
+|2025-12-05T21:30|8|102.89046666666665|0.0|0|
+|2025-12-05T21:45|8|75.38378571428572|0.0|0|
+|2025-12-05T22:00|8|131.38785714285714|0.0|0|
+|2025-12-05T22:15|8|92.13433333333333|0.0|0|
+|2025-12-05T22:30|8|70.59846666666667|0.0|0|
+|2025-12-05T22:45|8|72.55685714285711|0.0|0|
+|2025-12-05T23:15|8|56.82579999999999|0.0|0|
+|2025-12-05T23:30|8|98.55606666666668|0.0|0|
+|2025-12-05T23:45|8|84.99157142857143|0.0|0|
+
+## Conclusie
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui felis, pulvinar non eros porta, laoreet iaculis nulla. Curabitur eu viverra elit. Aliquam erat volutpat. Praesent et est vitae mi volutpat porta. Donec faucibus, nibh nec pretium rutrum, mi leo fringilla ante, at ultricies nunc nisl at augue. Aliquam at cursus libero, a ultrices augue. Nulla sed dignissim ante, vel tristique massa. Nulla nec magna velit. Duis auctor porttitor nibh, et placerat dolor molestie sed. Praesent nec lobortis mauris, non interdum ante. Donec nec urna eu erat sagittis suscipit et ut metus. Nam volutpat ex in ante pellentesque, nec dignissim nunc porta. Praesent pellentesque porttitor urna, vitae eleifend justo dignissim eget. Praesent volutpat nisi congue ipsum mollis pulvinar. Integer sollicitudin dolor quis nisl hendrerit, ut commodo odio venenatis. In hac habitasse platea dictumst.
+
+
+-------------------------------------------
+[2025-12-06 16:25:34] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+[WARNING] Could not fetch resource ../analysis-output/total/clouds_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/correlation_matrix.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/price_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/radiation_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_clouds_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_price_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_radiation_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/solar_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/clouds_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_clouds_radiation.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_solar_price.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/overlay_multiaxis_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/price_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/radiation_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 16:25:35] Einde genereren report
+Pandoc input file:
+-------------------------------------------
+---
+title: "Analyse report"
+author: "Gil De Mets"
+header-includes: 
+  - |
+      \usepackage{float}
+      \makeatletter
+      \def\fps@figure{H}
+      \makeatother
+---
+
+# Automatisch analyse rapport
+
+_Gegenereerd op: 2025-12-06 16:25:34_
+
+## Inleiding
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et lacus eget enim suscipit porttitor sed non felis. Donec auctor, massa tincidunt mattis ornare, sapien quam auctor mauris, sed iaculis tellus tellus nec diam. Nunc ut gravida sem. Sed feugiat enim commodo, pellentesque nisl eget, pulvinar metus. Morbi non elit ac sem imperdiet pellentesque. Etiam congue justo quis nibh varius, vitae ultrices nisi condimentum. Mauris pharetra, tortor sit amet dignissim scelerisque, ante ex consequat magna, a gravida felis justo a libero. Mauris ullamcorper vestibulum nibh, in egestas elit scelerisque a. Etiam tempus aliquam ipsum eget tempus.
+
+## Resultaten
+
+### Grafieken
+
+Volgende grafieken werden automatisch gegenereerd met de geproceste data.
+
+![clouds_timeseries.png](../analysis-output/total/clouds_timeseries.png)
+
+![correlation_matrix.png](../analysis-output/total/correlation_matrix.png)
+
+![price_timeseries.png](../analysis-output/total/price_timeseries.png)
+
+![radiation_timeseries.png](../analysis-output/total/radiation_timeseries.png)
+
+![scatter_clouds_solar.png](../analysis-output/total/scatter_clouds_solar.png)
+
+![scatter_price_solar.png](../analysis-output/total/scatter_price_solar.png)
+
+![scatter_radiation_solar.png](../analysis-output/total/scatter_radiation_solar.png)
+
+![solar_timeseries.png](../analysis-output/total/solar_timeseries.png)
+
+
+
+![clouds_today.png](../analysis-output/today/clouds_today.png)
+
+![dualaxis_clouds_radiation.png](../analysis-output/today/dualaxis_clouds_radiation.png)
+
+![dualaxis_solar_price.png](../analysis-output/today/dualaxis_solar_price.png)
+
+![overlay_multiaxis_today.png](../analysis-output/today/overlay_multiaxis_today.png)
+
+![price_today.png](../analysis-output/today/price_today.png)
+
+![radiation_today.png](../analysis-output/today/radiation_today.png)
+
+![solar_today.png](../analysis-output/today/solar_today.png)
+
+
+
+### Tabel
+
+In onderstaande tabel wordt de geproceste data die de laatste 24u verzameld werd weergegeven.
+
+|Timestamp|Clouds(okta)|Price|Radiation|Solar|
+|---|---|---|---|---|
+|2025-12-05T17:00|7|49.714285714285715|0.0|228|
+|2025-12-05T17:15|7|112.75786666666666|0.0|0|
+|2025-12-05T17:30|8|36|0.0|0|
+|2025-12-05T17:45|8|36|0.0|0|
+|2025-12-05T18:00|8|35.124857142857145|0.0|0|
+|2025-12-05T18:15|8|30.851599999999998|0.0|0|
+|2025-12-05T18:30|7|35.108|0.0|0|
+|2025-12-05T18:45|7|40.18828571428571|0.0|0|
+|2025-12-05T19:00|7|36|0.0|0|
+|2025-12-05T19:15|7|36|0.0|0|
+|2025-12-05T19:30|8|34.72833333333333|0.0|0|
+|2025-12-05T19:45|8|72.85714285714286|0.0|0|
+|2025-12-05T20:00|8|40.642857142857146|0.0|0|
+|2025-12-05T20:30|7|40.333333333333336|0.0|0|
+|2025-12-05T20:45|7|40.44350000000001|0.0|0|
+|2025-12-05T21:00|7|151.39435714285713|0.0|0|
+|2025-12-05T21:15|7|104.2719333333333|0.0|0|
+|2025-12-05T21:30|8|102.89046666666665|0.0|0|
+|2025-12-05T21:45|8|75.38378571428572|0.0|0|
+|2025-12-05T22:00|8|131.38785714285714|0.0|0|
+|2025-12-05T22:15|8|92.13433333333333|0.0|0|
+|2025-12-05T22:30|8|70.59846666666667|0.0|0|
+|2025-12-05T22:45|8|72.55685714285711|0.0|0|
+|2025-12-05T23:15|8|56.82579999999999|0.0|0|
+|2025-12-05T23:30|8|98.55606666666668|0.0|0|
+|2025-12-05T23:45|8|84.99157142857143|0.0|0|
+
+## Conclusie
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui felis, pulvinar non eros porta, laoreet iaculis nulla. Curabitur eu viverra elit. Aliquam erat volutpat. Praesent et est vitae mi volutpat porta. Donec faucibus, nibh nec pretium rutrum, mi leo fringilla ante, at ultricies nunc nisl at augue. Aliquam at cursus libero, a ultrices augue. Nulla sed dignissim ante, vel tristique massa. Nulla nec magna velit. Duis auctor porttitor nibh, et placerat dolor molestie sed. Praesent nec lobortis mauris, non interdum ante. Donec nec urna eu erat sagittis suscipit et ut metus. Nam volutpat ex in ante pellentesque, nec dignissim nunc porta. Praesent pellentesque porttitor urna, vitae eleifend justo dignissim eget. Praesent volutpat nisi congue ipsum mollis pulvinar. Integer sollicitudin dolor quis nisl hendrerit, ut commodo odio venenatis. In hac habitasse platea dictumst.
+
+
+-------------------------------------------
+[2025-12-06 16:27:52] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+PWD in script  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow
+REPORT_MD path : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report/report_2025-12-06.md
+REPORT_MD DIR  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report
+[WARNING] Could not fetch resource ../analysis-output/total/clouds_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/correlation_matrix.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/price_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/radiation_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_clouds_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_price_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_radiation_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/solar_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/clouds_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_clouds_radiation.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_solar_price.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/overlay_multiaxis_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/price_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/radiation_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 16:27:53] Einde genereren report
+[2025-12-06 16:31:02] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+PWD in script  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow
+REPORT_MD path : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report/report_2025-12-06.md
+REPORT_MD DIR  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report
+scripts/generate_report.sh: line 129: syntax error near unexpected token `fi'
+scripts/generate_report.sh: line 129: `fi'
+[2025-12-06 16:31:26] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+PWD in script  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow
+REPORT_MD path : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report/report_2025-12-06.md
+REPORT_MD DIR  : /home/hogent/linux-2526-Gil-De-Mets/data-workflow/report
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 16:31:30] Einde genereren report
+[2025-12-06 17:13:23] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-06 17:13:27] Einde genereren report

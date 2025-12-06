@@ -3,14 +3,17 @@
 #----------Variabelen----------
 #------------------------------
 
-CLOUDSDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/clouds"
-SOLARDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/solar"
-RADIATIONDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/radiation"
-PRICEDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/price"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
 
-OUTDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/processed"
+CLOUDSDIR="$ROOT_DIR/raw/clouds"
+SOLARDIR="$ROOT_DIR/raw/solar"
+RADIATIONDIR="$ROOT_DIR/raw/radiation"
+PRICEDIR="$ROOT_DIR/raw/price"
 
-LOGFILE="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/transform.log"
+OUTDIR="$ROOT_DIR/processed"
+
+LOGFILE="$ROOT_DIR/logs/transform.log"
 
 #----------Alles opvangen----------
 #----------------------------------

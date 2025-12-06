@@ -33,5 +33,5 @@
 
 - `pip install pandas`
 - `pip install matplotlib`
-
+- `sudo apt install texlive-xetex` voor pandoc conversie naar pdf
 

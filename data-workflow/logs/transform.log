@@ -34816,3 +34816,1644 @@ DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/sola
 [2025-12-06 07:57:55] DONE CREATING MASTER TIMESTAMP
 BEGIN COMBINING
 [2025-12-06 07:57:55] DONE COMBINING DATA INTO COMBINED.CSV
+[2025-12-06 17:08:26] Start transformeren data naar .csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-223002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-223002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251119-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-013002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-013002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-083002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-083002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-130659.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-130659.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-213002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-213002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251120-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-131131.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-131131.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-173500.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-173500.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-180002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-180002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251121-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-083002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-083002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-220002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-220002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251122-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-190002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-190002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251123-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-030002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-030002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-153002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-153002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-173002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-173002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251124-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-030002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-030002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-180002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-180002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-203002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-203002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251125-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-153002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-153002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-220002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-220002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251126-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-020002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-020002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-130002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-130002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-153002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-153002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251127-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-110002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-110002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251128-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251129-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-093001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-093001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-123002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-123002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-193002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-193002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251130-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-050002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-050002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251201-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251202-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-173001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-173001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-180001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-180001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-183001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-183001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-190001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-190001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-193001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-193001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-200001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-200001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-203001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-203001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-210001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-210001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-213001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-213001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-220001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-220001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-223001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-223001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-230001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-230001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-233001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251205-233001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-000001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-000001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-003001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-003001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-010001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-010001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-013001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-013001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-020001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-020001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-023001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-023001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-030001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-030001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-033001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-033001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-040001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-040001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-043001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-043001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-050001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-050001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-053001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-053001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-060001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-060001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-063001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-063001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-070001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-070001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-073001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-073001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-080001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-080001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-083001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-083001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-090001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-090001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-093002.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-093002.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-100001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-100001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-103001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-103001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-110001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-110001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-113001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-113001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-120001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-120001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-123001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-123001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-130001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-130001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-133001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-133001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-140001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-140001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-143001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-143001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-150001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-150001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-153001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-153001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-160001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-160001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-163001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-163001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-170001.txt
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/clouds/cloudsdata-20251206-170001.txt
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251119-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251119-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251119-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251119-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-130707.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-130707.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251120-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-173452.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-173452.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-180002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-180002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251121-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-220002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-220002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251122-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-190002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-190002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251123-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-030002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-030002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251124-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-030002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-030002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-180002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-180002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251125-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-220002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-220002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251126-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-020002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-020002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-130002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-130002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251127-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-110002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-110002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251128-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-050002.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-050002.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-180001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-180001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-190001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-190001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-200001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-200001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-210001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-210001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-220001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-220001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-230001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-230001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-000001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-000001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-010001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-010001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-020001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-020001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-030001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-030001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-040001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-040001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-050001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-050001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-060001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-060001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-070001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-070001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-080001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-080001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-090001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-090001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-100001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-100001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-110001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-110001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-120001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-120001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-130001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-130001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-140001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-140001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-150001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-150001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-160001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-160001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-170001.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-170001.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251119-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251119-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251120-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251120-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251121-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251121-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251122-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251122-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251123-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251123-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251124-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251124-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251125-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251125-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251126-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251126-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251128-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251128-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251129-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251129-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251130-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251130-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251201-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251201-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251205-225501.json
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/radiation/radiationdata-20251205-225501.json
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251119-225523.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251120-225524.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251120-225524.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251121-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251121-225523.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251122-225524.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251122-225524.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251123-225524.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251123-225524.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251124-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251124-225523.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251125-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251125-225523.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251126-225524.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251126-225524.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251128-225524.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251128-225524.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251129-225541.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251129-225541.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251130-225521.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251130-225521.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251201-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251201-225523.csv
+PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251205-225523.csv
+DONE PROCESSING /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar/solardata-20251205-225523.csv
+[2025-12-06 17:08:50] ALL DATA TRANSFORMED TO 15 MIN INTERVAL CSV
+[2025-12-06 17:08:50] START COMBINING DATA
+[2025-12-06 17:08:50] CREATING MASTER TIMESTAMP
+[2025-12-06 17:08:50] DONE CREATING MASTER TIMESTAMP
+BEGIN COMBINING
+[2025-12-06 17:08:50] DONE COMBINING DATA INTO COMBINED.CSV

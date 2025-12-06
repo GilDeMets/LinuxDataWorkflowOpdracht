@@ -1,10 +1,16 @@
 #! /usr/bin/env python3
-import pandas as pd
-import matplotlib.pyplot as plt
 import os
-import numpy as np
+import sys
+import traceback
 from datetime import datetime
-import sys, traceback
+
+import matplotlib
+matplotlib.use("Agg")
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROCESSED = os.path.join(BASE_DIR, "processed", "combined.csv")
@@ -13,6 +19,8 @@ PLOT_DIR_TOTAL = os.path.join(PLOT_DIR, "total")
 PLOT_DIR_TODAY = os.path.join(PLOT_DIR, "today")
 
 os.makedirs(PLOT_DIR, exist_ok=True)
+os.makedirs(PLOT_DIR_TOTAL, exist_ok=True)
+os.makedirs(PLOT_DIR_TODAY, exist_ok=True)
 
 LOG_FILE = os.path.join(BASE_DIR, "logs", "analysis.log")
 

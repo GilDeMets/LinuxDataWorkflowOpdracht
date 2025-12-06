@@ -3,17 +3,21 @@
 #----------Variabelen----------
 #------------------------------
 
-GRAFIEKENDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/analysis-output"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+
+
+GRAFIEKENDIR="$ROOT_DIR/analysis-output"
 GRAFIEKENTOTAL="$GRAFIEKENDIR/total"
 GRAFIEKENTODAY="$GRAFIEKENDIR/today"
 
-CSVDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/processed"
+CSVDIR="$ROOT_DIR/processed"
 CSVFILE="$CSVDIR/combined.csv"
 
-REPORTDIR="$HOME/linux-2526-Gil-De-Mets/data-workflow/report"
+REPORTDIR="$ROOT_DIR/report"
 HISTORYDIR="$REPORTDIR/history"
 
-LOGFILE="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/generate_report.log"
+LOGFILE="$ROOT_DIR/logs/generate_report.log"
 
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
 FILESTAMP=$(date +"%Y-%m-%d")
@@ -111,8 +115,19 @@ rm "$tmpfile"
 
 echo "Einde genereren md-file"
 
+#----------PFD creeren----------
+#-------------------------------
 
+echo "Start genereren pdf"
 
+if pandoc \
+	--resource-path="$PWD:$PWD/analysis-output:$PWD/analysis-output/total:$PWD/analysis-output/today" \
+	"$REPORT_MD" -o "$REPORT_PDF"; then
+	cp "$REPORT_PDF" "$HISTORYDIR/report_$FILESTAMP.pdf"
+	echo "Einde genereren pdf + archiveren vorige pdf"
+fi
+
+echo "[$(date +"%Y-%m-%d %H:%M:%S")] Einde genereren report"
 
 
 
