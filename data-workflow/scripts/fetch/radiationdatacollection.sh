@@ -3,8 +3,11 @@
 #----------Variabelen----------
 #------------------------------
 
-DATADIRMETEO="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/radiation"
-LOGFILEMETEO="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/fetch/radiation.log"
+SCRIPT_DIR="$(cd "$(dirnamme "$0")" && pwd)"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+
+DATADIRMETEO="$ROOT_DIR/raw/radiation"
+LOGFILEMETEO="$ROOT_DIR/logs/fetch/radiation.log"
 
 timestamp=$(date -u +%Y%m%d-%H%M%S)
 

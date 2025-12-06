@@ -3,8 +3,11 @@
 #----------Variabelen----------
 #------------------------------
 
-DATADIRELIA="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/price"
-LOGFILEELIA="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/fetch/price.log"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+
+DATADIRELIA="$ROOT_DIR/raw/price"
+LOGFILEELIA="$ROOT_DIR/logs/fetch/price.log"
 LIMIT=60
 
 start=$(date -u -d '1 hour ago' +%Y-%m-%dT%H:%M:%S)

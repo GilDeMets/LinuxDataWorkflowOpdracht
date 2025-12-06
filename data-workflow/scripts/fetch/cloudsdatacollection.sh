@@ -3,8 +3,11 @@
 #----------Variabelen----------
 #------------------------------
 
-DATADIRCLOUDS="$HOME/linux-2526-Gil-De-Mets/data-workflow/raw/clouds"
-LOGFILECLOUDS="$HOME/linux-2526-Gil-De-Mets/data-workflow/logs/fetch/clouds.log"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT_DIR="$(realpath "$SCRIPT_DIR/..")"
+
+DATADIRCLOUDS="$ROOT_DIR/raw/clouds"
+LOGFILECLOUDS="$ROOT_DIR/logs/fetch/clouds.log"
 
 timestamp=$(date -u +%Y%m%d-%H%M%S)
 

@@ -7,7 +7,10 @@ import time
 import sys, traceback
 import stat
 
-LOG_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/logs/fetch")
+SCRIPT_DIR = Path(__file__).resolve().parent
+BASE_DIR = SCRIPT_DIR.parent.parent
+
+LOG_DIR = BASE_DIR / "logs" / "fetch"
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOG_DIR / "solar.log"
 
@@ -20,14 +23,14 @@ def excepthook(t, v, tb):
 sys.excepthook = excepthook
 
 SMA_USER = "meidoornstraat4@gmail.com"
-SMA_PASS = os.environ.get("SMA_PASS")
+SMA_PASS = os.environ.get("SOLAR_PASSWORD")
 PLANT_ID = "14399320"
 
 if not SMA_PASS:
 	ts = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
 	raise SystemExit(f"[{ts}] SMA_PASS niet gezet in environment")
 
-DOWNLOAD_DIR = Path("/home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/solar")
+DOWNLOAD_DIR = BASE_DIR / "raw" / "solar"
 DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 def main():
@@ -47,9 +50,9 @@ def main():
         			page.wait_for_load_state("networkidle")
 		except:
     			pass
-		
+
 		#login
-			
+
 		if "login.sma.energy" in page.url or "login" in page.url:
 			username_selector = "input#username[name='username']"
 			password_selector = "input#password[name='password']"
@@ -63,14 +66,14 @@ def main():
 			page.wait_for_load_state("networkidle")
 
 		time.sleep(5)
-		
+
 		#naar correcte pagina
 		if target_url not in page.url:
 			page.goto(target_url, wait_until="networkidle")
 
 		#cookies weigeren
 		ts = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
-		
+
 		try:
     			reject_btn = page.locator("a:has-text('Reject all')")
     			if reject_btn.count() > 0 and reject_btn.first.is_visible():
@@ -78,7 +81,7 @@ def main():
         			page.wait_for_timeout(1000)
 		except Exception as e:
     			print(f"[{ts}] Cookiebanner niet gevonden of klik mislukt: {e}")
-		
+
 		#expansion openklikken
 
 		page.wait_for_selector("[data-testid='sma-accordion-detail-table']", timeout=60000)
@@ -86,7 +89,7 @@ def main():
 		page.wait_for_timeout(1000)
 
 		#download
-		
+
 		page.wait_for_selector("[data-testid='table-export-button'] button", timeout=61000)
 
 		page.click("[data-testid='table-export-button'] button")
