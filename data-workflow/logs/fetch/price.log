@@ -565,3 +565,237 @@ Periode: 2025-11-29T14:00:01 -> 2025-11-29T15:00:01
 [2025-11-29 16:00:01] Start data download
 Periode: 2025-11-29T15:00:01 -> 2025-11-29T16:00:01
 [2025-11-29 16:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-160001.json
+[2025-11-29 17:00:01] Start data download
+Periode: 2025-11-29T16:00:01 -> 2025-11-29T17:00:01
+[2025-11-29 17:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-170001.json
+[2025-11-29 18:00:01] Start data download
+Periode: 2025-11-29T17:00:01 -> 2025-11-29T18:00:01
+[2025-11-29 18:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-180001.json
+[2025-11-29 19:00:01] Start data download
+Periode: 2025-11-29T18:00:01 -> 2025-11-29T19:00:01
+[2025-11-29 19:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-190001.json
+[2025-11-29 20:00:01] Start data download
+Periode: 2025-11-29T19:00:01 -> 2025-11-29T20:00:01
+[2025-11-29 20:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-200001.json
+[2025-11-29 21:00:01] Start data download
+Periode: 2025-11-29T20:00:01 -> 2025-11-29T21:00:01
+[2025-11-29 21:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-210001.json
+[2025-11-29 22:00:01] Start data download
+Periode: 2025-11-29T21:00:01 -> 2025-11-29T22:00:01
+[2025-11-29 22:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-220001.json
+[2025-11-29 23:00:01] Start data download
+Periode: 2025-11-29T22:00:01 -> 2025-11-29T23:00:01
+[2025-11-29 23:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251129-230001.json
+[2025-11-30 00:00:01] Start data download
+Periode: 2025-11-29T23:00:01 -> 2025-11-30T00:00:01
+[2025-11-30 00:00:01] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-000001.json
+[2025-11-30 01:00:01] Start data download
+Periode: 2025-11-30T00:00:01 -> 2025-11-30T01:00:01
+[2025-11-30 01:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-010001.json
+[2025-11-30 02:00:01] Start data download
+Periode: 2025-11-30T01:00:01 -> 2025-11-30T02:00:01
+[2025-11-30 02:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-020001.json
+[2025-11-30 03:00:01] Start data download
+Periode: 2025-11-30T02:00:01 -> 2025-11-30T03:00:01
+[2025-11-30 03:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-030001.json
+[2025-11-30 04:00:01] Start data download
+Periode: 2025-11-30T03:00:01 -> 2025-11-30T04:00:01
+[2025-11-30 04:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-040001.json
+[2025-11-30 05:00:01] Start data download
+Periode: 2025-11-30T04:00:01 -> 2025-11-30T05:00:01
+[2025-11-30 05:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-050001.json
+[2025-11-30 06:00:01] Start data download
+Periode: 2025-11-30T05:00:01 -> 2025-11-30T06:00:01
+[2025-11-30 06:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-060001.json
+[2025-11-30 07:00:01] Start data download
+Periode: 2025-11-30T06:00:01 -> 2025-11-30T07:00:01
+[2025-11-30 07:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-070001.json
+[2025-11-30 08:00:01] Start data download
+Periode: 2025-11-30T07:00:01 -> 2025-11-30T08:00:01
+[2025-11-30 08:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-080001.json
+[2025-11-30 09:00:01] Start data download
+Periode: 2025-11-30T08:00:01 -> 2025-11-30T09:00:01
+[2025-11-30 09:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-090001.json
+[2025-11-30 10:00:01] Start data download
+Periode: 2025-11-30T09:00:01 -> 2025-11-30T10:00:01
+[2025-11-30 10:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-100001.json
+[2025-11-30 11:00:01] Start data download
+Periode: 2025-11-30T10:00:01 -> 2025-11-30T11:00:01
+[2025-11-30 11:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-110001.json
+[2025-11-30 12:00:01] Start data download
+Periode: 2025-11-30T11:00:01 -> 2025-11-30T12:00:01
+[2025-11-30 12:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-120001.json
+[2025-11-30 13:00:01] Start data download
+Periode: 2025-11-30T12:00:01 -> 2025-11-30T13:00:01
+[2025-11-30 13:00:02] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-130001.json
+[2025-11-30 14:00:01] Start data download
+Periode: 2025-11-30T13:00:01 -> 2025-11-30T14:00:01
+[2025-11-30 14:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-140001.json
+[2025-11-30 15:00:01] Start data download
+Periode: 2025-11-30T14:00:01 -> 2025-11-30T15:00:01
+[2025-11-30 15:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-150001.json
+[2025-11-30 16:00:01] Start data download
+Periode: 2025-11-30T15:00:01 -> 2025-11-30T16:00:01
+[2025-11-30 16:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-160001.json
+[2025-11-30 17:00:01] Start data download
+Periode: 2025-11-30T16:00:01 -> 2025-11-30T17:00:01
+[2025-11-30 17:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-170001.json
+[2025-11-30 18:00:01] Start data download
+Periode: 2025-11-30T17:00:01 -> 2025-11-30T18:00:01
+[2025-11-30 18:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-180001.json
+[2025-11-30 19:00:01] Start data download
+Periode: 2025-11-30T18:00:01 -> 2025-11-30T19:00:01
+[2025-11-30 19:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-190001.json
+[2025-11-30 20:00:01] Start data download
+Periode: 2025-11-30T19:00:01 -> 2025-11-30T20:00:01
+[2025-11-30 20:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-200001.json
+[2025-11-30 21:00:01] Start data download
+Periode: 2025-11-30T20:00:01 -> 2025-11-30T21:00:01
+[2025-11-30 21:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-210001.json
+[2025-11-30 22:00:01] Start data download
+Periode: 2025-11-30T21:00:01 -> 2025-11-30T22:00:01
+[2025-11-30 22:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-220001.json
+[2025-11-30 23:00:01] Start data download
+Periode: 2025-11-30T22:00:01 -> 2025-11-30T23:00:01
+[2025-11-30 23:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251130-230001.json
+[2025-12-01 00:00:01] Start data download
+Periode: 2025-11-30T23:00:01 -> 2025-12-01T00:00:01
+[2025-12-01 00:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-000001.json
+[2025-12-01 01:00:01] Start data download
+Periode: 2025-12-01T00:00:01 -> 2025-12-01T01:00:01
+[2025-12-01 01:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-010001.json
+[2025-12-01 02:00:01] Start data download
+Periode: 2025-12-01T01:00:01 -> 2025-12-01T02:00:01
+[2025-12-01 02:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-020001.json
+[2025-12-01 03:00:01] Start data download
+Periode: 2025-12-01T02:00:01 -> 2025-12-01T03:00:01
+[2025-12-01 03:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-030001.json
+[2025-12-01 04:00:01] Start data download
+Periode: 2025-12-01T03:00:01 -> 2025-12-01T04:00:01
+[2025-12-01 04:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-040001.json
+[2025-12-01 05:00:02] Start data download
+Periode: 2025-12-01T04:00:02 -> 2025-12-01T05:00:02
+[2025-12-01 05:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-050002.json
+[2025-12-01 06:00:01] Start data download
+Periode: 2025-12-01T05:00:01 -> 2025-12-01T06:00:01
+[2025-12-01 06:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-060001.json
+[2025-12-01 07:00:01] Start data download
+Periode: 2025-12-01T06:00:01 -> 2025-12-01T07:00:01
+[2025-12-01 07:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-070001.json
+[2025-12-01 08:00:01] Start data download
+Periode: 2025-12-01T07:00:01 -> 2025-12-01T08:00:01
+[2025-12-01 08:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-080001.json
+[2025-12-01 10:00:01] Start data download
+Periode: 2025-12-01T09:00:01 -> 2025-12-01T10:00:01
+[2025-12-01 10:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-100001.json
+[2025-12-01 11:00:01] Start data download
+Periode: 2025-12-01T10:00:01 -> 2025-12-01T11:00:01
+[2025-12-01 11:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-110001.json
+[2025-12-01 13:00:01] Start data download
+Periode: 2025-12-01T12:00:01 -> 2025-12-01T13:00:01
+[2025-12-01 13:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-130001.json
+[2025-12-01 14:00:01] Start data download
+Periode: 2025-12-01T13:00:01 -> 2025-12-01T14:00:01
+[2025-12-01 14:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-140001.json
+[2025-12-01 15:00:01] Start data download
+Periode: 2025-12-01T14:00:01 -> 2025-12-01T15:00:01
+[2025-12-01 15:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-150001.json
+[2025-12-01 22:00:01] Start data download
+Periode: 2025-12-01T21:00:01 -> 2025-12-01T22:00:01
+[2025-12-01 22:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-220001.json
+[2025-12-01 23:00:01] Start data download
+Periode: 2025-12-01T22:00:01 -> 2025-12-01T23:00:01
+[2025-12-01 23:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251201-230001.json
+[2025-12-02 00:00:01] Start data download
+Periode: 2025-12-01T23:00:01 -> 2025-12-02T00:00:01
+[2025-12-02 00:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-000001.json
+[2025-12-02 01:00:01] Start data download
+Periode: 2025-12-02T00:00:01 -> 2025-12-02T01:00:01
+[2025-12-02 01:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-010001.json
+[2025-12-02 02:00:01] Start data download
+Periode: 2025-12-02T01:00:01 -> 2025-12-02T02:00:01
+[2025-12-02 02:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-020001.json
+[2025-12-02 03:00:01] Start data download
+Periode: 2025-12-02T02:00:01 -> 2025-12-02T03:00:01
+[2025-12-02 03:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-030001.json
+[2025-12-02 04:00:01] Start data download
+Periode: 2025-12-02T03:00:01 -> 2025-12-02T04:00:01
+[2025-12-02 04:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-040001.json
+[2025-12-02 05:00:01] Start data download
+Periode: 2025-12-02T04:00:01 -> 2025-12-02T05:00:01
+[2025-12-02 05:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-050001.json
+[2025-12-02 08:00:01] Start data download
+Periode: 2025-12-02T07:00:01 -> 2025-12-02T08:00:01
+[2025-12-02 08:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-080001.json
+[2025-12-02 09:00:01] Start data download
+Periode: 2025-12-02T08:00:01 -> 2025-12-02T09:00:01
+[2025-12-02 09:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251202-090001.json
+[2025-12-05 13:00:01] Start data download
+Periode: 2025-12-05T12:00:01 -> 2025-12-05T13:00:01
+[2025-12-05 13:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-130001.json
+[2025-12-05 17:00:01] Start data download
+Periode: 2025-12-05T16:00:01 -> 2025-12-05T17:00:01
+[2025-12-05 17:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-170001.json
+[2025-12-05 18:00:01] Start data download
+Periode: 2025-12-05T17:00:01 -> 2025-12-05T18:00:01
+[2025-12-05 18:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-180001.json
+[2025-12-05 19:00:01] Start data download
+Periode: 2025-12-05T18:00:01 -> 2025-12-05T19:00:01
+[2025-12-05 19:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-190001.json
+[2025-12-05 20:00:01] Start data download
+Periode: 2025-12-05T19:00:01 -> 2025-12-05T20:00:01
+[2025-12-05 20:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-200001.json
+[2025-12-05 21:00:01] Start data download
+Periode: 2025-12-05T20:00:01 -> 2025-12-05T21:00:01
+[2025-12-05 21:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-210001.json
+[2025-12-05 22:00:01] Start data download
+Periode: 2025-12-05T21:00:01 -> 2025-12-05T22:00:01
+[2025-12-05 22:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-220001.json
+[2025-12-05 23:00:01] Start data download
+Periode: 2025-12-05T22:00:01 -> 2025-12-05T23:00:01
+[2025-12-05 23:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251205-230001.json
+[2025-12-06 00:00:01] Start data download
+Periode: 2025-12-05T23:00:01 -> 2025-12-06T00:00:01
+[2025-12-06 00:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-000001.json
+[2025-12-06 01:00:01] Start data download
+Periode: 2025-12-06T00:00:01 -> 2025-12-06T01:00:01
+[2025-12-06 01:00:02] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-010001.json
+[2025-12-06 02:00:01] Start data download
+Periode: 2025-12-06T01:00:01 -> 2025-12-06T02:00:01
+[2025-12-06 02:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-020001.json
+[2025-12-06 03:00:01] Start data download
+Periode: 2025-12-06T02:00:01 -> 2025-12-06T03:00:01
+[2025-12-06 03:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-030001.json
+[2025-12-06 04:00:01] Start data download
+Periode: 2025-12-06T03:00:01 -> 2025-12-06T04:00:01
+[2025-12-06 04:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-040001.json
+[2025-12-06 05:00:01] Start data download
+Periode: 2025-12-06T04:00:01 -> 2025-12-06T05:00:01
+[2025-12-06 05:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-050001.json
+[2025-12-06 06:00:01] Start data download
+Periode: 2025-12-06T05:00:01 -> 2025-12-06T06:00:01
+[2025-12-06 06:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-060001.json
+[2025-12-06 07:00:01] Start data download
+Periode: 2025-12-06T06:00:01 -> 2025-12-06T07:00:01
+[2025-12-06 07:00:05] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-070001.json
+[2025-12-06 08:00:01] Start data download
+Periode: 2025-12-06T07:00:01 -> 2025-12-06T08:00:01
+[2025-12-06 08:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-080001.json
+[2025-12-06 09:00:01] Start data download
+Periode: 2025-12-06T08:00:01 -> 2025-12-06T09:00:01
+[2025-12-06 09:00:02] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-090001.json
+[2025-12-06 10:00:01] Start data download
+Periode: 2025-12-06T09:00:01 -> 2025-12-06T10:00:01
+[2025-12-06 10:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-100001.json
+[2025-12-06 11:00:01] Start data download
+Periode: 2025-12-06T10:00:01 -> 2025-12-06T11:00:01
+[2025-12-06 11:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-110001.json
+[2025-12-06 12:00:01] Start data download
+Periode: 2025-12-06T11:00:01 -> 2025-12-06T12:00:01
+[2025-12-06 12:00:06] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-120001.json
+[2025-12-06 13:00:01] Start data download
+Periode: 2025-12-06T12:00:01 -> 2025-12-06T13:00:01
+[2025-12-06 13:00:04] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-130001.json
+[2025-12-06 14:00:01] Start data download
+Periode: 2025-12-06T13:00:01 -> 2025-12-06T14:00:01
+[2025-12-06 14:00:03] Succes: data opgeslagen in /home/hogent/linux-2526-Gil-De-Mets/data-workflow/raw/price/pricedata-20251206-140001.json

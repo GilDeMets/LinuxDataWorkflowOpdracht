@@ -11,3 +11,169 @@
 [2025-11-29 16:18:06] Generating correlation matrix plot...
 [2025-11-29 16:18:06] Saved plot: correlation_matrix.png
 [2025-11-29 16:18:06] Analysis complete.
+[2025-12-05 13:18:29] Loading dataset...
+[2025-12-05 13:18:29] Generating time series plots...
+[2025-12-05 13:18:29] Saved plot: clouds_timeseries.png
+[2025-12-05 13:18:29] Saved plot: radiation_timeseries.png
+[2025-12-05 13:18:30] Saved plot: solar_timeseries.png
+[2025-12-05 13:18:30] Saved plot: price_timeseries.png
+[2025-12-05 13:18:30] Generating scatter plots...
+[2025-12-05 13:18:30] Saved plot: scatter_radiation_solar.png
+[2025-12-05 13:18:30] Saved plot: scatter_clouds_solar.png
+[2025-12-05 13:18:31] Saved plot: scatter_price_solar.png
+[2025-12-05 13:18:31] Generating correlation matrix plot...
+[2025-12-05 13:18:31] Saved plot: correlation_matrix.png
+[2025-12-05 13:18:31] Analysis complete.
+[2025-12-05 13:55:29] Loading dataset...
+[2025-12-05 13:55:29] Generating time series plots...
+[2025-12-05 13:55:29] Saved plot: clouds_timeseries.png
+[2025-12-05 13:55:30] Saved plot: radiation_timeseries.png
+[2025-12-05 13:55:30] Saved plot: solar_timeseries.png
+[2025-12-05 13:55:30] Saved plot: price_timeseries.png
+[2025-12-05 13:55:30] Generating scatter plots...
+[2025-12-05 13:55:30] Saved plot: scatter_radiation_solar.png
+[2025-12-05 13:55:30] Saved plot: scatter_clouds_solar.png
+[2025-12-05 13:55:31] Saved plot: scatter_price_solar.png
+[2025-12-05 13:55:31] Generating correlation matrix plot...
+[2025-12-05 13:55:31] Saved plot: correlation_matrix.png
+[2025-12-05 13:55:31] Analysis complete.
+[2025-12-05 13:55:31] Generating last-day time series plots...
+[2025-12-05 13:55:31] Last day detected: 2025-11-29
+[2025-12-05 13:55:31] Saved plot: clouds_today.png
+[2025-12-05 13:55:31] Saved plot: radiation_today.png
+[2025-12-05 13:55:31] Saved plot: solar_today.png
+[2025-12-05 13:55:32] Saved plot: price_today.png
+[2025-12-05 14:00:34] Loading dataset...
+[2025-12-05 14:00:34] Generating time series plots...
+[2025-12-05 14:00:35] Saved plot: clouds_timeseries.png
+[2025-12-05 14:00:35] Saved plot: radiation_timeseries.png
+[2025-12-05 14:00:35] Saved plot: solar_timeseries.png
+[2025-12-05 14:00:35] Saved plot: price_timeseries.png
+[2025-12-05 14:00:35] Generating scatter plots...
+[2025-12-05 14:00:36] Saved plot: scatter_radiation_solar.png
+[2025-12-05 14:00:36] Saved plot: scatter_clouds_solar.png
+[2025-12-05 14:00:36] Saved plot: scatter_price_solar.png
+[2025-12-05 14:00:36] Generating correlation matrix plot...
+[2025-12-05 14:00:36] Saved plot: correlation_matrix.png
+[2025-12-05 14:00:36] Analysis complete.
+[2025-12-05 14:00:36] Generating last-day time series plots...
+[2025-12-05 14:00:36] Last day detected: 2025-11-29
+[2025-12-05 14:00:36] Saved plot: clouds_today.png
+[2025-12-05 14:00:37] Saved plot: radiation_today.png
+[2025-12-05 14:00:37] Saved plot: solar_today.png
+[2025-12-05 14:00:37] Saved plot: price_today.png
+[2025-12-05 14:00:37] Generating multi-axis overlay plot...
+[2025-12-05 14:00:38] Saved plot: overlay_multiaxis_today.png
+[2025-12-05 14:03:25] Loading dataset...
+[2025-12-05 14:03:25] Generating time series plots...
+[2025-12-05 14:03:25] Saved plot: clouds_timeseries.png
+[2025-12-05 14:03:26] Saved plot: radiation_timeseries.png
+[2025-12-05 14:03:26] Saved plot: solar_timeseries.png
+[2025-12-05 14:03:26] Saved plot: price_timeseries.png
+[2025-12-05 14:03:26] Generating scatter plots...
+[2025-12-05 14:03:27] Saved plot: scatter_radiation_solar.png
+[2025-12-05 14:03:27] Saved plot: scatter_clouds_solar.png
+[2025-12-05 14:03:27] Saved plot: scatter_price_solar.png
+[2025-12-05 14:03:27] Generating correlation matrix plot...
+[2025-12-05 14:03:27] Saved plot: correlation_matrix.png
+[2025-12-05 14:03:27] Analysis complete.
+[2025-12-05 14:03:27] Generating last-day time series plots...
+[2025-12-05 14:03:27] Last day detected: 2025-11-29
+[2025-12-05 14:03:27] Saved plot: clouds_today.png
+[2025-12-05 14:03:28] Saved plot: radiation_today.png
+[2025-12-05 14:03:28] Saved plot: solar_today.png
+[2025-12-05 14:03:28] Saved plot: price_today.png
+[2025-12-05 14:03:28] Generating clouds-radiation dual-axis plot...
+[2025-12-05 14:03:28] Saved plot: dualaxis_clouds_radiation.png
+[2025-12-05 14:05:21] Loading dataset...
+[2025-12-05 14:05:21] Generating time series plots...
+[2025-12-05 14:05:21] Saved plot: clouds_timeseries.png
+[2025-12-05 14:05:21] Saved plot: radiation_timeseries.png
+[2025-12-05 14:05:21] Saved plot: solar_timeseries.png
+[2025-12-05 14:05:22] Saved plot: price_timeseries.png
+[2025-12-05 14:05:22] Generating scatter plots...
+[2025-12-05 14:05:22] Saved plot: scatter_radiation_solar.png
+[2025-12-05 14:05:22] Saved plot: scatter_clouds_solar.png
+[2025-12-05 14:05:22] Saved plot: scatter_price_solar.png
+[2025-12-05 14:05:22] Generating correlation matrix plot...
+[2025-12-05 14:05:22] Saved plot: correlation_matrix.png
+[2025-12-05 14:05:22] Analysis complete.
+[2025-12-05 14:05:22] Generating last-day time series plots...
+[2025-12-05 14:05:22] Last day detected: 2025-11-29
+[2025-12-05 14:05:23] Saved plot: clouds_today.png
+[2025-12-05 14:05:23] Saved plot: radiation_today.png
+[2025-12-05 14:05:23] Saved plot: solar_today.png
+[2025-12-05 14:05:23] Saved plot: price_today.png
+[2025-12-05 14:05:23] Generating clouds-radiation dual-axis plot...
+[2025-12-05 14:05:24] Saved plot: dualaxis_clouds_radiation.png
+[2025-12-05 14:05:24] Generating solar-price dual-axis plot...
+[2025-12-05 14:05:24] Saved plot: dualaxis_solar_price.png
+[2025-12-05 14:06:24] Loading dataset...
+[2025-12-05 14:06:24] Generating time series plots...
+[2025-12-05 14:06:24] Saved plot: clouds_timeseries.png
+[2025-12-05 14:06:24] Saved plot: radiation_timeseries.png
+[2025-12-05 14:06:24] Saved plot: solar_timeseries.png
+[2025-12-05 14:06:25] Saved plot: price_timeseries.png
+[2025-12-05 14:06:25] Generating scatter plots...
+[2025-12-05 14:06:25] Saved plot: scatter_radiation_solar.png
+[2025-12-05 14:06:25] Saved plot: scatter_clouds_solar.png
+[2025-12-05 14:06:25] Saved plot: scatter_price_solar.png
+[2025-12-05 14:06:25] Generating correlation matrix plot...
+[2025-12-05 14:06:25] Saved plot: correlation_matrix.png
+[2025-12-05 14:06:25] Analysis complete.
+[2025-12-05 14:06:25] Generating last-day time series plots...
+[2025-12-05 14:06:25] Last day detected: 2025-11-29
+[2025-12-05 14:06:25] Saved plot: clouds_today.png
+[2025-12-05 14:06:26] Saved plot: radiation_today.png
+[2025-12-05 14:06:26] Saved plot: solar_today.png
+[2025-12-05 14:06:26] Saved plot: price_today.png
+[2025-12-05 14:06:26] Generating clouds-radiation dual-axis plot...
+[2025-12-05 14:06:26] Saved plot: dualaxis_clouds_radiation.png
+[2025-12-05 14:06:26] Generating solar-price dual-axis plot...
+[2025-12-05 14:06:27] Saved plot: dualaxis_solar_price.png
+[2025-12-06 07:55:52] Loading dataset...
+[2025-12-06 07:55:52] Generating time series plots...
+[2025-12-06 07:55:52] Saved plot: clouds_timeseries.png
+[2025-12-06 07:55:52] Saved plot: radiation_timeseries.png
+[2025-12-06 07:55:53] Saved plot: solar_timeseries.png
+[2025-12-06 07:55:53] Saved plot: price_timeseries.png
+[2025-12-06 07:55:53] Generating scatter plots...
+[2025-12-06 07:55:53] Saved plot: scatter_radiation_solar.png
+[2025-12-06 07:55:53] Saved plot: scatter_clouds_solar.png
+[2025-12-06 07:55:53] Saved plot: scatter_price_solar.png
+[2025-12-06 07:55:53] Generating correlation matrix plot...
+[2025-12-06 07:55:53] Saved plot: correlation_matrix.png
+[2025-12-06 07:55:53] Analysis complete.
+[2025-12-06 07:55:53] Generating last-day time series plots...
+[2025-12-06 07:55:53] Last day detected: 2025-11-29
+[2025-12-06 07:55:53] Saved plot: clouds_today.png
+[2025-12-06 07:55:54] Saved plot: radiation_today.png
+[2025-12-06 07:55:54] Saved plot: solar_today.png
+[2025-12-06 07:55:54] Saved plot: price_today.png
+[2025-12-06 07:55:54] Generating clouds-radiation dual-axis plot...
+[2025-12-06 07:55:54] Saved plot: dualaxis_clouds_radiation.png
+[2025-12-06 07:55:54] Generating solar-price dual-axis plot...
+[2025-12-06 07:55:54] Saved plot: dualaxis_solar_price.png
+[2025-12-06 07:58:24] Loading dataset...
+[2025-12-06 07:58:24] Generating time series plots...
+[2025-12-06 07:58:25] Saved plot: clouds_timeseries.png
+[2025-12-06 07:58:25] Saved plot: radiation_timeseries.png
+[2025-12-06 07:58:25] Saved plot: solar_timeseries.png
+[2025-12-06 07:58:25] Saved plot: price_timeseries.png
+[2025-12-06 07:58:25] Generating scatter plots...
+[2025-12-06 07:58:25] Saved plot: scatter_radiation_solar.png
+[2025-12-06 07:58:25] Saved plot: scatter_clouds_solar.png
+[2025-12-06 07:58:25] Saved plot: scatter_price_solar.png
+[2025-12-06 07:58:25] Generating correlation matrix plot...
+[2025-12-06 07:58:26] Saved plot: correlation_matrix.png
+[2025-12-06 07:58:26] Analysis complete.
+[2025-12-06 07:58:26] Generating last-day time series plots...
+[2025-12-06 07:58:26] Last day detected: 2025-12-06
+[2025-12-06 07:58:26] Saved plot: clouds_today.png
+[2025-12-06 07:58:26] Saved plot: radiation_today.png
+[2025-12-06 07:58:26] Saved plot: solar_today.png
+[2025-12-06 07:58:26] Saved plot: price_today.png
+[2025-12-06 07:58:26] Generating clouds-radiation dual-axis plot...
+[2025-12-06 07:58:26] Saved plot: dualaxis_clouds_radiation.png
+[2025-12-06 07:58:26] Generating solar-price dual-axis plot...
+[2025-12-06 07:58:27] Saved plot: dualaxis_solar_price.png
