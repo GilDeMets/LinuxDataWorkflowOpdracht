@@ -14,7 +14,7 @@ jobs:
 
       - name: Run price collection
         run: |
-          bash data-workflow/scripts/pricedatacollection.sh
+          bash data-workflow/scripts/fetch/pricedatacollection.sh
 
       - name: Commit and push 
         run: |
