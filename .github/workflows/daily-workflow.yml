@@ -9,6 +9,9 @@ jobs:
   daily:
     runs-on: ubuntu-latest
 
+    env:
+      SOLAR_PASSWORD: ${{ secrets.SOLAR_PASSWORD }}
+
     steps:
       - uses: actions/checkout@v4
 
