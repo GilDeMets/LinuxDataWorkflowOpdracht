@@ -24,7 +24,8 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install pandas matplotlib numpy
+          pip install pandas matplotlib numpy playwright
+          playwright install chromium
 
       - name: Fetch radiation data
         run: |
