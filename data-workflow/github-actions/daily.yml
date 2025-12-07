@@ -22,10 +22,27 @@ jobs:
           sudo apt-get install -y pandoc
           sudo apt-get install -y texlive texlive-latex-extra texlive-fonts-recommended
 
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with: 
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('data-workflow/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install Python dependencies
-        run: |
-          pip install pandas matplotlib numpy playwright
-          playwright install chromium
+        run: pip install -r data-workflow/requirements.txt
+
+      - name: Cache playwright
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright
+          restore-keys: |
+            ${{ runner.os }}-playwright
+
+      - name: Install chromium
+        run: playwright install chromium
 
       - name: Fetch radiation data
         run: |
@@ -52,11 +69,13 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data-workflow/raw/radiation
-          git add data-workflow/raw/solar
-          git add data-workflow/processed
-          git add data-workflow/analysis-output
-          git add data-workflow/report
-          git commit -m 'Update radiation/solar + daily report update'
-          git pull --rebase
+          # git add data-workflow/raw/radiation
+          # git add data-workflow/raw/solar
+          # git add data-workflow/processed
+          # git add data-workflow/analysis-output
+          # git add data-workflow/report
+          git add -A
+          git commit -m 'Update radiation/solar + daily report update' || true
+
+          git pull --rebase --autostash
           git push
