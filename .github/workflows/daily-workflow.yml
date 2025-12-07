@@ -33,7 +33,7 @@ jobs:
         with: 
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('data-workflow/requirements.txt') }}
-          restore keys: |
+          restore-keys: |
             ${{ runner.os }}-pip-
 
       - name: Install Python dependencies
@@ -44,7 +44,7 @@ jobs:
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright
-          restory keys: |
+          restore-keys: |
             ${{ runner.os }}-playwright
 
       - name: Install chromium
