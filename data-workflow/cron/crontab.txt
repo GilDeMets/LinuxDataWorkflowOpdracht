@@ -21,7 +21,7 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-0 * * * * /home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/cloudsdatacollection.sh
+0,30 * * * * /home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/cloudsdatacollection.sh
 0 * * * * /home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/pricedatacollection.sh
 55 22 * * * /home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/radiationdatacollection.sh
 55 22 * * * /bin/bash -c 'source /home/hogent/sma.env && source /home/hogent/venv/bin/activate && python /home/hogent/linux-2526-Gil-De-Mets/data-workflow/scripts/fetch/solardatacollection.py'
