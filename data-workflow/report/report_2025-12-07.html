@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>tmp</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.0.0/dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.0.0/dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.0.0/dist/theme/blood.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Automatisch analyse rapport</h1>
+</section>
+
+<section class="slide level1">
+
+title: “Analyse report” author: “Gil De Mets” header-includes: - |
+</section>
+<section id="automatisch-analyse-rapport" class="slide level1">
+<h1>Automatisch analyse rapport</h1>
+<p><em>Gegenereerd op: 2025-12-07 16:34:53</em></p>
+<h3 id="inleiding">Inleiding</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et
+lacus eget enim suscipit porttitor sed non felis. Donec auctor, massa
+tincidunt mattis ornare, sapien quam auctor mauris, sed iaculis tellus
+tellus nec diam. Nunc ut gravida sem. Sed feugiat enim commodo,
+pellentesque nisl eget, pulvinar metus. Morbi non elit ac sem imperdiet
+pellentesque. Etiam congue justo quis nibh varius, vitae ultrices nisi
+condimentum. Mauris pharetra, tortor sit amet dignissim scelerisque,
+ante ex consequat magna, a gravida felis justo a libero. Mauris
+ullamcorper vestibulum nibh, in egestas elit scelerisque a. Etiam tempus
+aliquam ipsum eget tempus.</p>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>### Resultaten</td>
+</tr>
+<tr class="even">
+<td>Volgende grafieken werden automatisch gegenereerd met de geproceste
+data.</td>
+</tr>
+</tbody>
+</table>
+<figure>
+<img data-src="../analysis-output/total/clouds_timeseries.png"
+alt="clouds_timeseries.png" />
+<figcaption aria-hidden="true">clouds_timeseries.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/correlation_matrix.png"
+alt="correlation_matrix.png" />
+<figcaption aria-hidden="true">correlation_matrix.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/price_timeseries.png"
+alt="price_timeseries.png" />
+<figcaption aria-hidden="true">price_timeseries.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/radiation_timeseries.png"
+alt="radiation_timeseries.png" />
+<figcaption aria-hidden="true">radiation_timeseries.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/scatter_clouds_solar.png"
+alt="scatter_clouds_solar.png" />
+<figcaption aria-hidden="true">scatter_clouds_solar.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/scatter_price_solar.png"
+alt="scatter_price_solar.png" />
+<figcaption aria-hidden="true">scatter_price_solar.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/scatter_radiation_solar.png"
+alt="scatter_radiation_solar.png" />
+<figcaption aria-hidden="true">scatter_radiation_solar.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/total/solar_timeseries.png"
+alt="solar_timeseries.png" />
+<figcaption aria-hidden="true">solar_timeseries.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/clouds_today.png"
+alt="clouds_today.png" />
+<figcaption aria-hidden="true">clouds_today.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/dualaxis_clouds_radiation.png"
+alt="dualaxis_clouds_radiation.png" />
+<figcaption
+aria-hidden="true">dualaxis_clouds_radiation.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/dualaxis_solar_price.png"
+alt="dualaxis_solar_price.png" />
+<figcaption aria-hidden="true">dualaxis_solar_price.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/overlay_multiaxis_today.png"
+alt="overlay_multiaxis_today.png" />
+<figcaption aria-hidden="true">overlay_multiaxis_today.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/price_today.png"
+alt="price_today.png" />
+<figcaption aria-hidden="true">price_today.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/radiation_today.png"
+alt="radiation_today.png" />
+<figcaption aria-hidden="true">radiation_today.png</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<figure>
+<img data-src="../analysis-output/today/solar_today.png"
+alt="solar_today.png" />
+<figcaption aria-hidden="true">solar_today.png</figcaption>
+</figure>
+<h3 id="tabel">Tabel</h3>
+<p>In onderstaande tabel wordt de geproceste data die de laatste 24u
+verzameld werd weergegeven.</p>
+</section>
+<section class="slide level1">
+
+<table>
+<thead>
+<tr class="header">
+<th>Timestamp</th>
+<th>Clouds(okta)</th>
+<th>Price</th>
+<th>Radiation</th>
+<th>Solar</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2025-12-07T00:30</td>
+<td>7</td>
+<td>20.857076923076928</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T00:45</td>
+<td>7</td>
+<td>29.395666666666667</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T02:00</td>
+<td>8</td>
+<td>20.998133333333335</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T02:15</td>
+<td>8</td>
+<td>3.2984</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T02:30</td>
+<td>8</td>
+<td>7.65</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T02:45</td>
+<td>8</td>
+<td>8.1092</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T03:00</td>
+<td>7</td>
+<td>40.530133333333325</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T03:15</td>
+<td>7</td>
+<td>49</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T03:30</td>
+<td>8</td>
+<td>50.20769230769231</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T03:45</td>
+<td>8</td>
+<td>64.8516</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T04:00</td>
+<td>7</td>
+<td>53.6768</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T04:15</td>
+<td>7</td>
+<td>35.47225</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T04:30</td>
+<td>7</td>
+<td>17.32</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T04:45</td>
+<td>7</td>
+<td>50.66393333333334</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T05:00</td>
+<td>7</td>
+<td>63.9368</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T05:15</td>
+<td>7</td>
+<td>62.59046666666667</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T06:00</td>
+<td>7</td>
+<td>84.35333333333334</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T06:15</td>
+<td>7</td>
+<td>84.56393333333334</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T06:30</td>
+<td>7</td>
+<td>77.56773333333334</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T06:45</td>
+<td>7</td>
+<td>84.85886666666669</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T07:30</td>
+<td>7</td>
+<td>74.68473333333331</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T07:45</td>
+<td>7</td>
+<td>83.78799999999998</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T08:00</td>
+<td>8</td>
+<td>80.93500000000002</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T08:15</td>
+<td>8</td>
+<td>57.45246666666667</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T08:30</td>
+<td>8</td>
+<td>92.7326</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T08:45</td>
+<td>8</td>
+<td>99.42000000000002</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T09:00</td>
+<td>8</td>
+<td>92.90999999999998</td>
+<td>2.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T09:15</td>
+<td>8</td>
+<td>92.85866666666668</td>
+<td>4.0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T09:30</td>
+<td>8</td>
+<td>92.50200000000001</td>
+<td>5.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T09:45</td>
+<td>8</td>
+<td>85.95026666666668</td>
+<td>7.0</td>
+<td>72</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T10:00</td>
+<td>8</td>
+<td>124.0184</td>
+<td>8.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T10:15</td>
+<td>8</td>
+<td>109.7018</td>
+<td>9.0</td>
+<td>180</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T10:30</td>
+<td>7</td>
+<td>111.94720000000001</td>
+<td>10.0</td>
+<td>300</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T10:45</td>
+<td>7</td>
+<td>109.8412666666667</td>
+<td>11.0</td>
+<td>408</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T11:30</td>
+<td>8</td>
+<td>112.89046666666665</td>
+<td>15.0</td>
+<td>672</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T11:45</td>
+<td>8</td>
+<td>121.23966666666665</td>
+<td>17.0</td>
+<td>720</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T12:00</td>
+<td>7</td>
+<td>89.58600000000001</td>
+<td>22.0</td>
+<td>384</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T12:15</td>
+<td>7</td>
+<td>39.51486666666666</td>
+<td>28.0</td>
+<td>588</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T12:30</td>
+<td>7</td>
+<td>79.20006666666667</td>
+<td>32.0</td>
+<td>480</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T12:45</td>
+<td>7</td>
+<td>48.509933333333336</td>
+<td>31.0</td>
+<td>384</td>
+</tr>
+<tr class="odd">
+<td>2025-12-07T13:00</td>
+<td>7</td>
+<td>81.79611111111112</td>
+<td>24.0</td>
+<td>588</td>
+</tr>
+<tr class="even">
+<td>2025-12-07T13:15</td>
+<td>7</td>
+<td>86.12146666666666</td>
+<td>15.0</td>
+<td>312</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="slide level1">
+
+<h3 id="conclusie">Conclusie</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dui
+felis, pulvinar non eros porta, laoreet iaculis nulla. Curabitur eu
+viverra elit. Aliquam erat volutpat. Praesent et est vitae mi volutpat
+porta. Donec faucibus, nibh nec pretium rutrum, mi leo fringilla ante,
+at ultricies nunc nisl at augue. Aliquam at cursus libero, a ultrices
+augue. Nulla sed dignissim ante, vel tristique massa. Nulla nec magna
+velit. Duis auctor porttitor nibh, et placerat dolor molestie sed.
+Praesent nec lobortis mauris, non interdum ante. Donec nec urna eu erat
+sagittis suscipit et ut metus. Nam volutpat ex in ante pellentesque, nec
+dignissim nunc porta. Praesent pellentesque porttitor urna, vitae
+eleifend justo dignissim eget. Praesent volutpat nisi congue ipsum
+mollis pulvinar. Integer sollicitudin dolor quis nisl hendrerit, ut
+commodo odio venenatis. In hac habitasse platea dictumst.</p>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@5.0.0/dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@5.0.0/plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@5.0.0/plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@5.0.0/plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

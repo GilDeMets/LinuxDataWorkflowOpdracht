@@ -19,8 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et lacus eget e
 
 ## Resultaten
 
-### Grafieken
-
 Volgende grafieken werden automatisch gegenereerd met de geproceste data.
 
 {{figures_total}}

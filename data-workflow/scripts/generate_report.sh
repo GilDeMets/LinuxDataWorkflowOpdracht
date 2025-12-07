@@ -25,6 +25,8 @@ FILESTAMP=$(date +"%Y-%m-%d")
 TEMPLATE="$REPORTDIR/template.md"
 REPORT_MD="$REPORTDIR/report_$FILESTAMP.md"
 REPORT_PDF="$REPORTDIR/report_$FILESTAMP.pdf"
+PRESENTATION_HTML="$REPORTDIR/report_$FILESTAMP.html"
+
 
 #----------Logging----------
 #---------------------------
@@ -44,7 +46,7 @@ FIGURES_TOTAL=""
 for fig in "$GRAFIEKENTOTAL"/*.png; do 
 	if [[ -f  "$fig" ]]; then
 		rel="../analysis-output/total/${fig##*/}"
-		FIGURES_TOTAL+="![${fig##*/}](${rel})\n\n"
+		FIGURES_TOTAL+="@@SLIDESPLIT@@\n\n# ${fig##*/}\n\n![${fig##*/}](${rel})\n\n"
 	fi
 done
 
@@ -53,7 +55,7 @@ FIGURES_TODAY=""
 for fig in "$GRAFIEKENTODAY"/*.png; do
 	if [[ -f "$fig" ]]; then
 		rel="../analysis-output/today/${fig##*/}"
-		FIGURES_TODAY+="![${fig##*/}](${rel})\n\n"
+		FIGURES_TODAY+="@@SLIDESPLIT@@\n\n# ${fig##*/}\n\n![${fig##*/}](${rel})\n\n"
 	fi
 done
 
@@ -120,15 +122,63 @@ echo "Einde genereren md-file"
 
 echo "Start genereren pdf"
 
+find "$REPORTDIR" -maxdepth 1 -name "report_*.pdf" ! -name "report_$FILESTAMP.pdf" -type f -delete
+find "$REPORTDIR" -maxdepth 1 -name "report_*.md" ! -name "report_$FILESTAMP.md" -type f -delete
+
+report_md_temp=$(mktemp)
+sed 's/@@SLIDESPLIT@@//g' "$REPORT_MD" > "$report_md_temp"
+
 if pandoc \
 	--resource-path="$PWD:$PWD/analysis-output:$PWD/analysis-output/total:$PWD/analysis-output/today" \
-	"$REPORT_MD" -o "$REPORT_PDF"; then
+	"$report_md_temp" -o "$REPORT_PDF"; then
 	cp "$REPORT_PDF" "$HISTORYDIR/report_$FILESTAMP.pdf"
 	echo "Einde genereren pdf + archiveren vorige pdf"
 fi
 
-echo "[$(date +"%Y-%m-%d %H:%M:%S")] Einde genereren report"
+rm "$report_md_temp"
 
+#----------Presentatie creeeren----------
+#----------------------------------------
+
+echo "Start genereren presentatie"
+
+PRESENTATION_MD_TEMP=$(mktemp)
+
+sed 's/@@SLIDESPLIT@@/---/g' "$REPORT_MD" | \
+sed '/^# .*\.png$/d' | \
+sed 's/^|Timestamp|/---\n\n|Timestamp|/' | \
+awk '
+	/^## / {
+		if (printed_first_h2) {
+			print "---"  
+		}
+		sub(/^## /, "### ") 
+		print
+		printed_first_h2 = 1
+		next
+	}
+	{print}
+' | \
+sed '1{/^---$/d}' \
+> "$PRESENTATION_MD_TEMP"
+
+if pandoc \
+	--resource-path="$PWD:$PWD/analysis-output:$PWD/analysis-output/total:$PWD/analysis-output/today" \
+	"$PRESENTATION_MD_TEMP" -o "$PRESENTATION_HTML" \
+	-t revealjs \
+	--standalone \
+	-V theme=blood \
+	-V title="Automatisch analyse rapport" \
+	-V revealjs-url=https://unpkg.com/reveal.js@5.0.0; then
+
+	echo "Einde genereren reveal.js presentatie"
+else
+	echo "Fout bij genereren reveal.js presentatie" >&2
+fi
+
+rm "$PRESENTATION_MD_TEMP"
+
+echo "[$(date +"%Y-%m-%d %H:%M:%S")] Einde genereren report"
 
 
 
