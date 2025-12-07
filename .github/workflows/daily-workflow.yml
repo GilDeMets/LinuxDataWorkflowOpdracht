@@ -29,7 +29,7 @@ jobs:
           sudo apt-get install -y texlive texlive-latex-extra texlive-fonts-recommended
 
       - name: Cache pip packages
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with: 
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('data-workflow/requirements.txt') }}
@@ -40,7 +40,7 @@ jobs:
         run: pip install -r data-workflow/requirements.txt
 
       - name: Cache playwright
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright
