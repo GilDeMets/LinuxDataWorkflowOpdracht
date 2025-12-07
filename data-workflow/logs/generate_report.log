@@ -6535,3 +6535,28 @@ Start genereren pdf
 [WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
 Einde genereren pdf + archiveren vorige pdf
 [2025-12-07 14:14:36] Einde genereren report
+[2025-12-07 14:28:34] Start met genereren rapport
+Start genereren grafieken
+Einde genereren grafieken
+Start genereren tabel
+Einde genereren tabel
+Start genereren md-file
+Einde genereren md-file
+Start genereren pdf
+[WARNING] Could not fetch resource ../analysis-output/total/clouds_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/correlation_matrix.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/price_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/radiation_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_clouds_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_price_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/scatter_radiation_solar.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/total/solar_timeseries.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/clouds_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_clouds_radiation.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/dualaxis_solar_price.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/overlay_multiaxis_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/price_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/radiation_today.png: replacing image with description
+[WARNING] Could not fetch resource ../analysis-output/today/solar_today.png: replacing image with description
+Einde genereren pdf + archiveren vorige pdf
+[2025-12-07 14:28:35] Einde genereren report
