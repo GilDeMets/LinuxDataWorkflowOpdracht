@@ -58,4 +58,5 @@ jobs:
           git add data-workflow/analysis-output
           git add data-workflow/report
           git commit -m 'Update radiation/solar + daily report update'
+          git pull --rebase
           git push
