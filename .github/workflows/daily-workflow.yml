@@ -15,6 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Cache APT packages
+        uses: awalsh128/cache-apt-pkgs-action@v1.3.1
+        with:
+          packages: pandoc texlive texlive-latex-extra texlive-fonts-recommended
+          version: 1.0
+
       - name: Install system dependencies
         run: |
           sudo apt-get update
@@ -22,10 +28,27 @@ jobs:
           sudo apt-get install -y pandoc
           sudo apt-get install -y texlive texlive-latex-extra texlive-fonts-recommended
 
+      - name: Cache pip packages
+        uses: actions/cache@v3
+        with: 
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('data-workflow/requirements.txt') }}
+          restore keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install Python dependencies
-        run: |
-          pip install pandas matplotlib numpy playwright
-          playwright install chromium
+        run: pip install -r data-workflow/requirements.txt
+
+      - name: Cache playwright
+        uses: action/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright
+          restory keys: |
+            ${{ runner.os }}-playwright
+
+      - name: Install chromium
+        run: playwright install chromium
 
       - name: Fetch radiation data
         run: |
